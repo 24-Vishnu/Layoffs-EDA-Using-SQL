@@ -1,6 +1,6 @@
 **SQL Exploratory Data Analysis**
 
-**Using LAYOFFS_CSV dataset**
+**Dataset Used: Layoffs Dataset**
 
 This project focuses on exploring a layoffs dataset using SQL to uncover trends, patterns, and insights from the data. The analysis was performed on a cleaned dataset prepared during the data cleaning phase.
 
