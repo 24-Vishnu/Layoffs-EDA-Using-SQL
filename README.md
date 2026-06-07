@@ -11,8 +11,7 @@ The goal of this project is to understand how layoffs were distributed across di
     01_Data_Exploration.sql
     02_Company_Analysis.sql
     03_Industry_Analysis.sql
-    04_Country_Analysis.sql
-    05_Time_Series_Analysis.sql
+    04_Time_Series_Analysis.sql
     
 **Areas of Analysis**
 1. Data Exploration
